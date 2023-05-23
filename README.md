@@ -1,10 +1,14 @@
-# EasyBikes | Backend
-
+# EasyBikes
 ![EasyBikes Logo](https://res.cloudinary.com/easybikes/image/upload/v1684816630/logobike1_huico1.png)
+EasyBikes 
+The Bike Sell and Buy Web App is an online marketplace that connects buyers and 
+sellers of bikes. The main Purpose to find a bike of your choice to directly connect with 
+the seller and avoid middle agents. The platform is designed to provide a user-friendly 
+interface that makes it easy for both buyers and sellers to find what they need. 
 
 # Table of Contents
 
-- [EasyBikes | Backend](#easybikes--backend)
+- [EasyBikes](#easybikes)
 - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Installation](#installation)
